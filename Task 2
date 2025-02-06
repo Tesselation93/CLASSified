@@ -1,0 +1,12 @@
+// Add datatype and appropriate name
+
+String coderWoman = "Tess Løvgreen";
+int daysYearly = 365;
+String capitolDenmark = "København";
+boolean loveCode = true;
+int minutesHours = 60*24;
+float dateAniversary = 22.12;
+String greatingsTess= "Hej, jeg heddder" + "Tess Løvgreen";
+boolean hateJava = false;
+float dollarsCents = 2.2 + 33;
+char firstLetter = 'S';
